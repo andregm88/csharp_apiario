@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LP2_Final_Colmeia_11198.Aplicacao" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Aplicacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.IntervencoesException" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.ColmeiaException" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.ApiarioException" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.Apiario" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gDAQQAAgAAAAAEAAGAAAgAAAABABAABACAAAkAAAAAA=</HashCode>
+      <FileName>BusinessObjects\Apiario\Apiario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.AbsApicultor" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEBAAE=</HashCode>
+      <FileName>BusinessObjects\Apicultor\AbsApicultor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.Apicultor" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAAAAAgEAAAAAAAAAAAAAAAAAAAAQEAAAEA=</HashCode>
+      <FileName>BusinessObjects\Apicultor\Apicultor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.ColmeiaInt" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAEAAQAAAACAAAgAAAACAAAAAAAIAAABAAAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\Colmeia\ColmeiaInt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.ColmeiaLight" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAARAgAAAAIAAAEwAAAgAAAAABAAIBAQAAAwAAAAEQ=</HashCode>
+      <FileName>BusinessObjects\Colmeia\ColmeiaLight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.Intervencao" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAQAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\Intervencao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.Localizacao" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAAAEAAAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\Localizacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessObjects.Tarefa" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAABAEAAAQAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>BusinessObjects\Tarefa\Tarefa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.BusinessRules.BusinessRules" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGQIAAAQAAABAAAAAAABAQABAAAABAAAABABCAAAAAA=</HashCode>
+      <FileName>BusinessRules\BusinessRules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LP2_Final_Colmeia_11198.DataLayer.GestorApiario" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAEABAAIAAAACCAVFAGAAAQKAAAAAkgAAgAAAAA=</HashCode>
+      <FileName>DataLayer\GestorApiario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LP2_Final_Colmeia_11198.BusinessObjects.IApiario" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAgAAAABAAAABACAAAAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\Apiario\IApiario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="LP2_Final_Colmeia_11198.BusinessObjects.IColmeia" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAIAAAAAAAAgAAAAABAAABAAAAAQAAAAAQ=</HashCode>
+      <FileName>BusinessObjects\Colmeia\IColmeia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="LP2_Final_Colmeia_11198.BusinessObjects.TipoColmeia" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessObjects\Colmeia\ColmeiaLight.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LP2_Final_Colmeia_11198.BusinessObjects.TipoTarefa" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAAAAABAAAAA=</HashCode>
+      <FileName>BusinessObjects\Tarefa\Tarefa.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
